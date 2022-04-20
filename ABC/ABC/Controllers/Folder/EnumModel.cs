@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace ABC.Enum
+namespace ABC
 {
     public class EnumModel
     {
